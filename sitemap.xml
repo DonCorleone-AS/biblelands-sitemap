@@ -1,102 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://www.visitthebiblelands.de/</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/home</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/about</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/travel-guides/rome</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/travel-guides/corinth</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/travel-guides/jordan</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/travel-guides/egypt</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/travel-guides/louvre-museum</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/travel-guides/pergamon-museum</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/shop</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/journal/carthage-topheth</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/journal/pompeii</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/journal/plan-your-trip</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/journal/india</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/journal/Caesars</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/buy-me-a-coffee</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/home/terms-of-use</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.visitthebiblelands.de/home/impressum</loc>
-  <lastmod>2024-11-24T15:00:19+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.visitthebiblelands.de/</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/home</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/about</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/travel-guides/rome</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/travel-guides/corinth</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/travel-guides/jordan</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/travel-guides/egypt</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/travel-guides/louvre-museum</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/travel-guides/pergamon-museum</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/shop</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/journal/carthage-topheth</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/journal/pompeii</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/journal/plan-your-trip</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/journal/india</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/journal/Caesars</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/buy-me-a-coffee</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/home/terms-of-use</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://www.visitthebiblelands.de/home/impressum</loc>
+        <lastmod>2024-11-24T15:00:19+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
 </urlset>
